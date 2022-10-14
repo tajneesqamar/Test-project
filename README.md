@@ -27,9 +27,9 @@ order - has items
 order item - has a pizza and quantity
 The following endpoints should return a JSON response:
 
-/api/orders (list of orders)
-/api/orders/:id (details of an individual order)
-/api/pizzas (list of pizzas; see './backend/example-pizzas.json')
+“*” /api/orders (list of orders)
+“*” /api/orders/:id (details of an individual order)
+“*” /api/pizzas (list of pizzas; see './backend/example-pizzas.json')
 
 
 # Delivery
