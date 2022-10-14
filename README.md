@@ -3,7 +3,7 @@ This Task is due on 17th October 2022
 
 
 # Task
-This is a simple challenge to test your skills on building APIs and FrontEnd Skills. You need to build API's in Node.js and use any database Mongodb, Firestore etc.
+To better assess a candidates development skills, we would like to provide the following challenge.
 
 # Project description
 # FrontEnd 
